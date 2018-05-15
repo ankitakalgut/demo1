@@ -98,7 +98,7 @@ public class PrimeChecker {
     * @param number the number to check for prime
     */
    public PrimeChecker(long num1) {
-      mInputNum1 = num1; 
+      mInputNum12 = num12; 
       this.checkPrime();
    }
 
