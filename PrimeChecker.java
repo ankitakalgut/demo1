@@ -22,7 +22,7 @@
 
 package com.bridgelabz.util;
 
-/*
+/*demo comment
  * JAVA STYLE GUIDE - IMPORT STATEMENtS
  * NOTE : NO WILDCARD IMPORTS i.e. import java.lang.*; 
  *        NO LINE WRAPING - APPEARS IN ONE LINE
